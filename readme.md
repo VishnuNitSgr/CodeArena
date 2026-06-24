@@ -10,10 +10,6 @@
     
     3 Do try this Code Editor andd give your Precious Feedback .(feedback form already available in home page of CodoFile Page ).
 
- ## Preview 
-
- ### 1. *[Frontend Demo](https://codofile-85b0c.web.app/)*
- ### 2. *[Backend Demo](https://codofile-backend.onrender.com/)*
   
   ## Requirement
 
