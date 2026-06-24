@@ -83,7 +83,3 @@
   ### 10. Register Page
   ![RegisterPage](./documentation/Project%20Assets/RegisterPage.PNG)
 
-
-
-
-### Copyright (C) 2023-2024 **Faizan alam** , *alamf6023@gmail.com*.
